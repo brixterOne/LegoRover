@@ -4,7 +4,7 @@
 2: setup netcam from opencv images
 3: create a navigator
 4: create a threaded publish-subscribe for sensor-values to the main-loop
-5:
+5: create configuration file and an make the projekt support diffrent pysical configurations
 
 
 
